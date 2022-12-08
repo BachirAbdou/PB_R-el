@@ -13,7 +13,7 @@
  * Pourquoi certains déporté ont survécu et d'autres sont morts?
  * Commencons l'analyse de données
 
-![](Monprojet/image/eportees.png)
+![](Monprojet/image/deportees.png)
 
 ## Chargement de données
 
