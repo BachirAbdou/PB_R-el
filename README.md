@@ -12,3 +12,9 @@
  * j'ai accès à des informations sur une partie des deportés (768 déportés) norvegiens. 
  * Pourquoi certains déporté ont survécu et d'autres sont morts?
  * Commencons l'analyse de données
+
+![](Monprojet/image/eportees.png)
+
+## Chargement de données
+
+Les donnés sont dans un tableau au format xlsx(excel):
