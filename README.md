@@ -9,4 +9,4 @@ Dans cette section, nous allons apprendre à visualiser les données à analyser
 Cette section est tout simplement pour:
    * Analyser et explorer les données de mon projet: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BachirAbdou/PB_R-el/PB_R-el?labpath=index.ipynb)
 
-
+![img](Images/Epi.png)
