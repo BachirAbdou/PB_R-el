@@ -1,7 +1,7 @@
 # Data_Analysis
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BachirAbdou/PB_R-el/PB_R-el?labpath=index.ipynb)
 ## Mon premier projet d'Analyse de données
-![](Monprojet/image/epi.png)
+
 
 ## Contexte
   
@@ -13,7 +13,6 @@
  * Pourquoi certains déporté ont survécu et d'autres sont morts?
  * Commencons l'analyse de données
 
-![](Monprojet/image/deportees.png)
 
 ## Chargement de données
 
