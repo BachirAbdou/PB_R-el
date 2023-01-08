@@ -3,17 +3,10 @@
 ## Mon premier projet d'Analyse de données
 
 
-## Contexte
+## Section Description
   
- Dans ce projet d'analyse de données qui est le mien, j'utiliserai le jeu de données des deportés norvegiens 
- lors de la seonde guerre mondiale,  qui ont étés déportés dans le camp d'Auschwits en 1940 à la suite
- de la guerre qu'Hitler a declanché en 1939. lors de cette geurre, beaucoup de camp de concentration ont été
- établi principalement contre les juifs et quelques prisonniers de guerre.
- * j'ai accès à des informations sur une partie des deportés (768 déportés) norvegiens. 
- * Pourquoi certains déporté ont survécu et d'autres sont morts?
- * Commencons l'analyse de données
+Dans cette section, nous allons apprendre à visualiser les données à analyser en travaillant avec des données de séries chronologiques. Ensuite, nous apprendrons à nettoyer et à joindre plusieurs ensembles de données en utilisant des DataFrames avec Python. Après cela, nous reviendrons à la visualisation des données et découvrirons les meilleures pratiques en matière de narration de données.
+Cette section est tout simplement pour:
+   * Analyser et explorer les données de mon projet: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BachirAbdou/PB_R-el/PB_R-el?labpath=index.ipynb)
 
 
-## Chargement de données
-
-Les donnés sont dans un tableau au format xlsx(excel):
