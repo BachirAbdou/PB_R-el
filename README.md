@@ -1,5 +1,5 @@
 # Data_Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BachirAbdou/PB_R-el/main?dossierpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BachirAbdou/PB_R-el/main?dossierpath=MonProjet%2Findex.ipynb)
 ## Mon premier projet d'Analyse de données
 
 
